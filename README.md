@@ -9,7 +9,7 @@ Build a Credit Scoring Model, enabling banks to make data-driven lending decisio
 2)Dataset
 
 Find it in the attachment:
-
+[Scorecard.csv] https://github.com/PennyLi123/Credit-Scoring-Python-Project/blob/main/Scorecard.csv
 
  
  
