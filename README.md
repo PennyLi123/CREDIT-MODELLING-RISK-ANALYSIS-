@@ -9,7 +9,7 @@ Build a Credit Scoring Model, enabling banks to make data-driven lending decisio
 # Dataset
 
 Find it in the attachment:
-[Scorecard.csv] https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/1.Scorecard.csv
+https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/1.Scorecard.csv
 
  
 This data contains 3000 records with 30 columns, including (Customer) ID (sensitive data)，28 independent variables and 1 dependent variable-Target.
