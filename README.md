@@ -12,7 +12,7 @@ Find it in the attachment:
 https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/1.Scorecard.csv
 
  
-This data contains 3000 records with 30 columns, including (Customer) ID (sensitive data)，28 independent variables and 1 dependent variable-Target.
+This data contains 3000 records with 30 columns, including (Customer) ID (sensitive data), 28 independent variables and 1 dependent variable-Target.
 
 Target represent the 2 types of loans: good loans (0) and bad loans (1).
 
@@ -34,12 +34,12 @@ Target represent the 2 types of loans: good loans (0) and bad loans (1).
 
 * Visualized findings via matplotlib, and seaborn.
 
-* Utilized the credit scoring model via logistic regression classifier in Python. For more details, find in 4.Scoredcard modelling.ipynb
+* Utilized the credit scoring model via logistic regression classifier in Python.  For more details, find in 4.Scoredcard modelling.ipynb
 
 * Applied decile methodology to formulate the lending strategy in Excel.
 [4.scoredcard_model_prediction&analysis.xlsx](https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/4.scoredcard_model_prediction%26analysis.xlsx)
 
-* Developed cloud backend utilizing AWS S3. Applied statistical methodology to formulate the lending strategy in Excel.
+* Developed cloud backend utilizing AWS S3.  Applied statistical methodology to formulate the lending strategy in Excel.
 <img width="415" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/5.AWS%20S3.png">
 
 
