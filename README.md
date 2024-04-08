@@ -1,4 +1,4 @@
-# Credit-Scoring-Analysis-Project (Python)
+# Credit-Scoring-Analysis-Python
 
 
 # Problem Statement
