@@ -47,6 +47,7 @@ Applied statistical methodology to formulate the lending strategy in Excel.
 
 # Conclusions
 ![image](https://user-images.githubusercontent.com/74843963/192164431-5557cad4-0fe6-45fb-9d7f-8b7272fc8497.png)
+<img width="384" alt="image" src="[https://user-images.githubusercontent.com/74843963/192163484-3eb96e39-3b84-434c-91fc-9937a8d63ef0.png](https://user-images.githubusercontent.com/74843963/192164431-5557cad4-0fe6-45fb-9d7f-8b7272fc8497.png)">
 
 
 
