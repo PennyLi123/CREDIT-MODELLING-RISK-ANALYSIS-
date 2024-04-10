@@ -3,7 +3,7 @@
 
 # Problem Statement
 
-Build a Credit Scoring Model, enabling banks to make data-driven lending decisions.
+Built a Credit Scoring Model, enabling banks to make data-driven lending decisions.
 
 
 # Dataset
@@ -22,25 +22,34 @@ Target represent the 2 types of loans: good loans (0) and bad loans (1).
 
 # Tools Used
 
-* Alteryx for ETL
+* `Jupyter Notebook` is used as IDE.
 
-[2.scoredcard_etl.csv](https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/2.Scoredcard_etl.csv)
+* Developed cloud backend utilizing `AWS S3`.  Applied statistical methodology to formulate the lending strategy in `Excel`.
+<img width="415" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/4.AWS%20S3.png">
 
-<img width="384" alt="image" src="https://user-images.githubusercontent.com/74843963/192163484-3eb96e39-3b84-434c-91fc-9937a8d63ef0.png">
+* `Pandas` and `NumPy` are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 
-* Jupyter Notebook is used as IDE.
+* Visualized findings via `Matplotlib` and `Seaborn`.
+(1) Visualized missing values in the dataset using the `sns.heatmap` function from the `Seaborn` library in `Python`.
 
-* Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
+❗️插入图片：5.heatmap_missing data
+<img width="415" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/5.heatmap_missing%20data.png">
 
-* Visualized findings via matplotlib, and seaborn.
+(2) Visualized the count of good loans (0) and bad loans (1) using a `countplot` chart from the `Seaborn`.
+❗️插入图片：6.countplot_good loan & bad loan
+<img width="215" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/6.countplot_good%20loan%20%26%20bad%20loan.png">
 
-* Utilized the credit scoring model via logistic regression classifier in Python.  For more details, find in 4.Scoredcard modelling.ipynb
+(3)Created a `boxplot` using `Seaborn`. It visualized the distribution of numerical variables across the entire dataset, horizontally ('orient='h''), with colors defined by the 'rainbow' palette.
+❗️插入图片：7.boxplot_distribution of numerical variables
+<img width="215" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/7.boxplot_distribution%20of%20numerical%20variables.png">
+
+
+
+* Utilized the credit scoring model via logistic regression classifier in Python.  For more details, find in 2.Credit Scoring Modelling.ipynb
 
 * Applied decile methodology to formulate the lending strategy in Excel.
-[4.scoredcard_model_prediction&analysis.xlsx](https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/4.scoredcard_model_prediction%26analysis.xlsx)
+[3.Scoredcard model prediction & analysis.xlsx](https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/3.Scoredcard%20model%20prediction%20%26%20analysis.xlsx)
 
-* Developed cloud backend utilizing AWS S3.  Applied statistical methodology to formulate the lending strategy in Excel.
-<img width="415" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/5.AWS%20S3.png">
 
 
 # Conclusions
