@@ -30,6 +30,7 @@ Target represent the 2 types of loans: good loans (0) and bad loans (1).
 * `Pandas` and `NumPy` are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
 
 * Visualized findings via `Matplotlib` and `Seaborn`.
+
 (1) Visualized missing values in the dataset using the `sns.heatmap` function from the `Seaborn` library in `Python`.
 
 <img width="415" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/5.heatmap_missing%20data.png">
