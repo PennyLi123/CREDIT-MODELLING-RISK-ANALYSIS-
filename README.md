@@ -32,16 +32,15 @@ Target represent the 2 types of loans: good loans (0) and bad loans (1).
 * Visualized findings via `Matplotlib` and `Seaborn`.
 (1) Visualized missing values in the dataset using the `sns.heatmap` function from the `Seaborn` library in `Python`.
 
-❗️插入图片：5.heatmap_missing data
 <img width="415" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/5.heatmap_missing%20data.png">
 
 (2) Visualized the count of good loans (0) and bad loans (1) using a `countplot` chart from the `Seaborn`.
-❗️插入图片：6.countplot_good loan & bad loan
+
 <img width="215" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/6.countplot_good%20loan%20%26%20bad%20loan.png">
 
 (3)Created a `boxplot` using `Seaborn`. It visualized the distribution of numerical variables across the entire dataset, horizontally ('orient='h''), with colors defined by the 'rainbow' palette.
-❗️插入图片：7.boxplot_distribution of numerical variables
-<img width="215" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/7.boxplot_distribution%20of%20numerical%20variables.png">
+
+<img width="415" alt="image" src="https://github.com/PennyLi123/Credit-Scoring-Analysis-Python/blob/main/7.boxplot_distribution%20of%20numerical%20variables.png">
 
 
 
