@@ -1,4 +1,4 @@
-# Credit-Scoring-Analysis-Python
+# Credit Modelling & Risk Analysis
 
 
 # Problem Statement
